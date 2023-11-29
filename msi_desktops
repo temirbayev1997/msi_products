@@ -4,7 +4,7 @@ const arr = [
         category: 'desktop', 
         price: 0, 
         old_price: 0, 
-        image: img, 
+        image: 'https://cdn.citilink.ru/_5uYwUwybRVvCDl4opQlRv0DcNnja60cqCiBtDsc-i4/resizing_type:fit/gravity:sm/width:400/height:400/plain/product-images/0746fb6a-347d-47fa-b548-787ccae3b0f5.jpg' ,
         characteristic: { 
             processer:'intel', 
             processer_model:'I5-11400F', 
@@ -21,7 +21,7 @@ const arr = [
         category: 'desktop', 
         price: 0, 
         old_price: 0, 
-        image: img, 
+        image: 'https://cdn.citilink.ru/4Aov_Q8to1s-txLa-Y8pHUnqhycfBCGWRwd7Hu7-4F4/resizing_type:fit/gravity:sm/width:400/height:400/plain/product-images/0dc9f7a2-737e-4956-be73-e6d4603e606f.jpg' , 
         characteristic: { 
             processer:'intel', 
             processer_model:'I5-12400', 
@@ -38,7 +38,7 @@ const arr = [
         category: 'desktop', 
         price: 0, 
         old_price: 0, 
-        image: img, 
+        image: 'https://cdn.citilink.ru/JeLdcRdDP3rR5sozY5_L81DLtZCcyKslLkXuz0F3VkI/resizing_type:fit/gravity:sm/width:400/height:400/plain/product-images/3b83f77e-6ce5-4607-8af1-85f08362795a.jpg' , 
         characteristic: { 
             processer:'intel', 
             processer_model:'I7-13700F', 
@@ -55,7 +55,7 @@ const arr = [
         category: 'desktop', 
         price: 0, 
         old_price: 0, 
-        image: img, 
+        image: 'https://cdn.citilink.ru/vJr0mtKn9OVw6dP-CCxZJ_VeB5WoQds4aob0nSqkCZo/resizing_type:fit/gravity:sm/width:1200/height:1200/plain/product-images/cba02278-a07a-469c-bc56-4fdcf6c8bc28.jpg' , 
         characteristic: { 
             processer:'intel', 
             processer_model:'I5-12400F', 
@@ -72,7 +72,7 @@ const arr = [
         category: 'desktop', 
         price: 0, 
         old_price: 0, 
-        image: img, 
+        image: 'https://cdn.citilink.ru/fYMMImy03VdUxhclCfZYTU-dwLiQG5yoxHB5vIQVcUY/resizing_type:fit/gravity:sm/width:400/height:400/plain/product-images/f49d19a8-1441-45c6-9aef-185c748aedd4.jpg' , 
         characteristic: { 
             processer:'intel', 
             processer_model:'I5-13400F', 
@@ -89,7 +89,7 @@ const arr = [
         category: 'desktop', 
         price: 0, 
         old_price: 0, 
-        image: img, 
+        image: 'https://cdn.citilink.ru/CprZKXOE_LBqB3KoV7IU0wCLIgPY9AwwDVlmKOKORFU/resizing_type:fit/gravity:sm/width:400/height:400/plain/items/1618181_v01_b.jpg' , 
         characteristic: { 
             processer:'intel', 
             processer_model:'I5-1400F', 
@@ -106,7 +106,7 @@ const arr = [
         category: 'desktop', 
         price: 0, 
         old_price: 0, 
-        image: img, 
+        image: 'https://cdn.citilink.ru/oTOZ372sambeFZG6SP_M9zBM1WgRS7shSGtUf6qastE/resizing_type:fit/gravity:sm/width:400/height:400/plain/product-images/05ea2045-566d-4b96-8d2f-6736f2d74ff9.jpg' , 
         characteristic: { 
             processer:'Ryzen', 
             processer_model:'5 5600g', 
@@ -120,10 +120,10 @@ const arr = [
     },
     {id: 28, 
         name: 'MSI Infinite 11TH-1610XRU', 
-        category: 'desktop', 
+        category: 'dekstop', 
         price: 0, 
         old_price: 0, 
-        image: img, 
+        image: 'https://cdn.citilink.ru/sVXTXDgok5LsjIF6NXqYtjLx0YvJBN9daCkOGr0E2r0/resizing_type:fit/gravity:sm/width:400/height:400/plain/items/1794761_v01_b.jpg' , 
         characteristic: { 
             processer:'intel', 
             processer_model:'I5-11400F', 
@@ -140,7 +140,7 @@ const arr = [
         category: 'desktop', 
         price: 0, 
         old_price: 0, 
-        image: img, 
+        image: 'https://cdn.citilink.ru/LtMVsGx62W91-DG0XTLLimZSvZl7hjNoNsKeR5H_O28/resizing_type:fit/gravity:sm/width:400/height:400/plain/product-images/9d4e6dba-ff1b-4046-b29c-0a18f1b42d5f.jpg' , 
         characteristic: { 
             processer:'Intel', 
             processer_model:'I5-11400F', 
