@@ -1,5 +1,5 @@
 const arr = [
-    {
+    {   
         id: 1,
         name: 'MSI Modern 14 B11MOU',
         category:'laptop',
@@ -16,7 +16,7 @@ const arr = [
             video_card: 'UHD Graphics Xe G4 48EUs'
         }
     },
-    {
+    {   
         id: 2,
         name: 'MSI Bravo 17 C7VE',
         category:'laptop',
@@ -32,7 +32,8 @@ const arr = [
             display_hz: 144,
             video_card: 'RTX 4050'
         }
-    }, {
+    }, 
+    {
         id: 3,
         name: 'MSI Bravo 15 B5DD',
         category:'laptop',
@@ -82,7 +83,8 @@ const arr = [
             display_hz: 144,
             video_card: 'RTX 3050'
         }
-    }, {
+    }, 
+    {
         id: 6,
         name: 'MSI Katana GF66 12UD',
         category:'laptop',
@@ -115,7 +117,8 @@ const arr = [
             display_hz: 144,
             video_card: 'RTX 3050'
         }
-    }, {
+    }, 
+    {
         id: 8,
         name: 'MSI Katana GF76 12UEOK',
         category:'laptop',
@@ -306,8 +309,9 @@ const dekstops = [
         block_power: 750,
         type_ram: 'ddr5'
     }
-},
-    {id: 19,
+    },
+    {
+        id: 19,
         name: 'MSI Codex X5 11TD-1463XRUU',
         category: 'dekstop',
         price: 0,
@@ -324,7 +328,8 @@ const dekstops = [
             type_ram: 'ddr4'
         }
     },
-    {id: 20,
+    {   
+        id: 20,
         name: 'MSI Pro DP130 11-478XRU',
         category: 'dekstop',
         price: 0,
